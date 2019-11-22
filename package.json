@@ -1,0 +1,15 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node init.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

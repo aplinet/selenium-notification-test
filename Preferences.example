@@ -1,0 +1,30 @@
+{
+    "profile": {
+        "content_settings": {
+            "exceptions": {
+                "notifications": {
+                    "http://localhost:4200,*": {
+                        "last_modified": "13201781257336116",
+                        "setting": 1
+                    },
+                    "http://localhost:4201,*": {
+                        "last_modified": "13201976132252675",
+                        "setting": 1
+                    },
+                    "http://localhost:8080,*": {
+                        "last_modified": "13218828259659581",
+                        "setting": 1
+                    },
+                    "https://www.bennish.net:443,*": {
+                        "last_modified": "13218903840911060",
+                        "setting": 1
+                    },
+                    "https://zielonepogotowie.app:443,*": {
+                        "last_modified": "13212756397487688",
+                        "setting": 1
+                    }
+                }
+            }
+        }
+    }
+}
